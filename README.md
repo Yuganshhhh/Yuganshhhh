@@ -6,8 +6,8 @@
 *400+ DSA Problems • Spring Boot Microservices • Scalable Systems*
 
 <p align="center">
-  <a href="[https://linkedin.com/in/yugansh-sharma](https://www.linkedin.com/in/yugansh-sharma-097740301/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://codolio.com/profile/Yugansh](https://codolio.com/profile/Yugansh)"><img src="https://img.shields.io/badge/Codolio-FFA116?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yugansh-sharma-097740301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codolio.com/profile/Yugansh"><img src="https://img.shields.io/badge/Codolio-FFA116?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="mailto:yugansh2511@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 

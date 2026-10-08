@@ -49,12 +49,18 @@
 - Implemented polyglot storage: **PostgreSQL** for strict user identities and **MongoDB** for flexible activity records.
 - Generates personalized workout analysis, improvement areas and safety guidelines for each activity using the **Google Gemini API**.
 
+#### 🤖 [AI Agent Tools & Workflow Demo](https://github.com/Yuganshhhh/ai-agent-01)
+*Spring Boot • Spring AI • Tool Calling • AI Agents • Gemini API*
+- Built an AI agent system using **Spring AI** with custom tools (Calculator, Weather, Currency Exchange, File System).
+- Implemented an autonomous **website generation agent** that creates complete HTML + CSS + JS sites using tool calling.
+- Demonstrates streaming chat, multi-tool workflows, and safe file-system operations restricted to a workspace.
+- Clean architecture focused on tool calling patterns and agentic workflows with Spring AI.
+
 #### 🔗 [AetherLink: URL Shortener & Analytics Engine](https://github.com/Yuganshhhh)
 *Spring Boot • PostgreSQL (Neon) • Docker • JWT • Custom Security Filters*
 - Engineered high-throughput 8-character slug generation and HTTP 302 redirection with click-event tracking.
 - Stateless authentication layer built using custom Spring Security JWT filters and BCrypt hashing.
 - Containerized using **Docker** and deployed on **Render** backed by serverless PostgreSQL.
-
 ---
 
 ### 📈 GitHub Activity

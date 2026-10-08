@@ -11,6 +11,10 @@
   <a href="mailto:yugansh2511@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  🎓 B.Tech CSE '26 &nbsp;|&nbsp; 💼 Open to Backend / SDE roles &nbsp;|&nbsp; 📄 <a href="https://github.com/Yuganshhhh/Yuganshhhh/blob/main/yugGenAI.pdf">Resume</a>
+</p>
+
 </div>
 
 ---
@@ -19,6 +23,8 @@
 - 🛠️ Engineering event-driven microservices with **Spring Cloud**, **Apache Kafka**, and **Keycloak**.
 - 🤖 Integrating LLMs and Vector Search into backend workflows with **Spring AI** & **Google Gemini API**.
 - 🎯 Practicing data structures and core CS fundamentals (400+ problems solved across LeetCode, HackerRank, GFG).
+
+💬 **Ask me about:** Spring Boot, Kafka, microservices, Keycloak, DSA
 
 ---
 
@@ -41,6 +47,7 @@
 - Decoupled high-frequency activity ingestion and AI analysis workflows using **Apache Kafka** event streaming.
 - Centralized security with **Keycloak (OAuth2 / JWT)** at a Spring Cloud Gateway with automated user provisioning.
 - Implemented polyglot storage: **PostgreSQL** for strict user identities and **MongoDB** for flexible activity records.
+- Generates personalized workout analysis, improvement areas and safety guidelines for each activity using the **Google Gemini API**.
 
 #### 🔗 [AetherLink: URL Shortener & Analytics Engine](https://github.com/Yuganshhhh)
 *Spring Boot • PostgreSQL (Neon) • Docker • JWT • Custom Security Filters*
@@ -50,17 +57,20 @@
 
 ---
 
-### 📊 Proof of Work & Metrics
+### 📈 GitHub Activity
 
 <div align="center">
 
-| 🧠 DSA Solved | 📦 Core Focus | ⚙️ Architecture | 🌐 Live Workflows |
-| :---: | :---: | :---: | :---: |
-| **400+** | **Java & Spring Boot** | **Event-Driven Microservices** | **Applied GenAI / RAG** |
+<img src="https://streak-stats.demolab.com/?user=Yuganshhhh&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yuganshhhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuganshhhh&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 
-<br/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yuganshhhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yugansh's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuganshhhh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+---
+
+<div align="center">
+
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/yugansh-sharma-097740301/) · [Email](mailto:yugansh2511@gmail.com) · [Codolio](https://codolio.com/profile/Yugansh)
 
 </div>

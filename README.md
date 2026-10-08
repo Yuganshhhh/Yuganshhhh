@@ -43,7 +43,7 @@
 ### 🚀 Highlighted Systems
 
 #### 🏋️ [FitPilot: AI-Powered Fitness Platform](https://github.com/Yuganshhhh/FitPilot)
-*Microservices • Spring Boot • Spring Cloud • Apache Kafka • Keycloak • Gemini API • Polyglot DB*
+*Microservices • Spring Boot • Spring Cloud • Apache Kafka • Keycloak • Gemini API*
 - Decoupled high-frequency activity ingestion and AI analysis workflows using **Apache Kafka** event streaming.
 - Centralized security with **Keycloak (OAuth2 / JWT)** at a Spring Cloud Gateway with automated user provisioning.
 - Implemented polyglot storage: **PostgreSQL** for strict user identities and **MongoDB** for flexible activity records.

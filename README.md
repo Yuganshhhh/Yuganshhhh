@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  🎓 B.Tech CSE '26 &nbsp;|&nbsp; 💼 Open to Backend / SDE roles &nbsp;|&nbsp; 📄 <a href="https://github.com/Yuganshhhh/Yuganshhhh/blob/main/yugGenAI.pdf">Resume</a>
+  🎓 B.Tech CSE '26 &nbsp;|&nbsp; 💼 Open to Backend / SDE roles &nbsp;|&nbsp; 📄 <a href="https://github.com/Yuganshhhh/Yuganshhhh/blob/main/yugGenAI-updated.pdf">Resume</a>
 </p>
 
 </div>

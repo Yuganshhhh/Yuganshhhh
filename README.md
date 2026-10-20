@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=230&section=header&text=Yugansh%20Sharma&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Applied%20AI%20%C2%B7%20Forward%20Deployed%20Engineer&descAlignY=60&descSize=17" width="100%" />
+# Hi, I'm Yugansh Sharma 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=%24+whoami+%E2%86%92+backend+engineer+%7C+FDE;%24+stack+%E2%86%92+Java+21+%C2%B7+Spring+Boot+%C2%B7+Spring+AI;%24+building+%E2%86%92+RAG+%C2%B7+agents+%C2%B7+vector+search;%24+status+%E2%86%92+open+to+work+%F0%9F%9F%A2" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Forward+Deployed+Engineer;Applied+AI+%7C+LLMs+%7C+RAG)](https://git.io/typing-svg)
+
+**Final-year B.Tech CSE (2026)** · **400+ DSA Problems** · Building production-style backends & LLM-powered applications
 
 <br/>
 
@@ -237,11 +239,7 @@ flowchart LR
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuganshhhh&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yuganshhhh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" />
+<img src="https://ghchart.rshah.org/58a6ff/Yuganshhhh" alt="Contribution chart" width="85%" />
 
 </div>
 

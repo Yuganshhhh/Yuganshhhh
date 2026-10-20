@@ -22,28 +22,25 @@
 
 <br/>
 
-## 〉 `cat about.java`
+## 〉 `./about --me`
 
-```java
-public class Yugansh implements BackendEngineer, AppliedAIBuilder {
+<table>
+<tr>
+<td>
 
-    String  role       = "Backend Engineer | Forward Deployed Engineer";
-    String  education  = "B.Tech CSE (Final Year, 2026)";
-    int     dsaSolved  = 400;   // and counting
+I'm a **backend engineer** who likes turning LLMs into things that actually ship. My days go into designing clean, secure **Spring Boot** services, and wiring them up with **Spring AI** and **Google Gemini** to build RAG pipelines, tool-calling agents and semantic search that work on *meaning*, not keywords.
 
-    String[] currentlyBuilding = {
-        "LLM-powered backends  -> Spring AI + Google Gemini",
-        "Semantic search & recommenders -> vector embeddings",
-        "System design & core CS fundamentals"
-    };
+I care about the unglamorous parts too: auth, sandboxing, event-driven design and tests, because a demo only becomes a product when those are right. With **400+ DSA problems** behind me and a CS degree finishing in 2026, I'm aiming for roles where I can work close to real users and real problems, as a Backend or Forward Deployed Engineer.
 
-    String[] askMeAbout = {
-        "Spring Boot", "Spring AI", "RAG", "Embeddings", "AI Agents", "DSA"
-    };
+**🔭 Building now** &nbsp;LLM-powered backends · vector-embedding recommenders · system design depth
+<br/>
+**💬 Ask me about** &nbsp;Spring Boot · Spring AI · RAG · Embeddings · AI Agents · DSA
+<br/>
+**🟢 Status** &nbsp;Open to Backend / FDE / SDE roles · Remote or Hybrid
 
-    boolean openToWork = true;  // Backend / FDE / SDE · Remote or Hybrid
-}
-```
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -129,14 +126,6 @@ public class Yugansh implements BackendEngineer, AppliedAIBuilder {
 - Embeds the dataset on startup with `gemini-embedding-001`; ranks with **cosine similarity implemented from scratch**
 - Two REST endpoints: semantic search and "movies similar to X"
 
-```mermaid
-flowchart LR
-    A([🗣 Query]) --> B[Gemini Embedding]
-    B --> C{{Cosine Similarity}}
-    D[(Movie Vectors)] --> C
-    C --> E([🎯 Top-K Matches])
-    style C fill:#1f6feb,stroke:#58a6ff,color:#fff
-```
 
 [**→ View repo**](https://github.com/Yuganshhhh/movies-match-01)
 
@@ -158,16 +147,6 @@ flowchart LR
 - Streaming chat API (**SSE**) with multi-tool workflows: calculator, live weather & currency exchange
 - Provider-agnostic LLM setup (Gemini via OpenAI-compatible endpoint)
 
-```mermaid
-flowchart LR
-    P[📝 Plan] --> W[✍️ Write Files]
-    W --> V[🔍 Verify]
-    V -- issues found --> F[🛠 Fix]
-    F --> V
-    V -- all good --> D([✅ Done])
-    style P fill:#1f6feb,stroke:#58a6ff,color:#fff
-    style D fill:#238636,stroke:#3fb950,color:#fff
-```
 
 [**→ View repo**](https://github.com/Yuganshhhh/ai-agent-01)
 
@@ -190,19 +169,6 @@ flowchart LR
 - Centralized auth: **Keycloak (OAuth2/JWT)** at Spring Cloud Gateway + automatic user provisioning
 - Polyglot persistence: PostgreSQL for identities, MongoDB for activities & recommendations
 
-```mermaid
-flowchart LR
-    U([👤 Client]) --> G[Spring Cloud Gateway]
-    K{{Keycloak<br/>OAuth2 / JWT}} -. validates .-> G
-    G --> A[Activity Service]
-    A --> Q[[Kafka]]
-    Q --> AI[AI Analysis Service]
-    AI --> M[(Gemini)]
-    A --> DB[(MongoDB)]
-    AI --> DB
-    style G fill:#1f6feb,stroke:#58a6ff,color:#fff
-    style Q fill:#231F20,stroke:#58a6ff,color:#fff
-```
 
 [**→ View repo**](https://github.com/Yuganshhhh/FitPilot)
 
@@ -236,10 +202,6 @@ flowchart LR
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuganshhhh&theme=tokyonight&hide_border=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api?username=Yuganshhhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuganshhhh&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/58a6ff/Yuganshhhh" alt="Contribution chart" width="85%" />
 
 </div>
 

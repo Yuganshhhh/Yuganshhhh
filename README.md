@@ -114,7 +114,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuganshhhh&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuganshhhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuganshhhh&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 

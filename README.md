@@ -110,13 +110,14 @@
 
 ---
 
-### 📊 Git Metrics & Activity
+### 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Yuganshhhh&theme=tokyonight&hide_border=true&exclude_days=Sun" alt="GitHub Streak" height="175" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuganshhhh&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuganshhhh&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuganshhhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuganshhhh&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
+
 ---
 
 <div align="center">

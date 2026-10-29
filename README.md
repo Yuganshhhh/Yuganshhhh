@@ -113,11 +113,15 @@
 ### 📊 Git Metrics & Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Yuganshhhh&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&mode=daily" alt="GitHub Streak" height="160" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Yuganshhhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
-  <br/><br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yuganshhhh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuganshhhh&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Yugansh's Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuganshhhh&theme=tokyonight" width="48%" alt="Profile Details" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuganshhhh&theme=tokyonight" width="48%" alt="Languages" />
 </div>
 
 ---

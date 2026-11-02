@@ -107,15 +107,20 @@
 - Multi-stage Docker builds and serverless cloud deployment.
 
 ---
+---
 
 ## 📈 GitHub Stats
 
 <div align="center">
+  <img src="./assets/github-stats.svg"
+       alt="GitHub Repository Statistics"
+       width="100%" />
 
-  <img height="165" src="https://streak-stats.demolab.com/?user=Yuganshhhh&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
+  <br />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuganshhhh&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used programming languages" />
-
+  <img src="./assets/top-languages.svg"
+       alt="Top Programming Languages"
+       width="100%" />
 </div>
 
 ---

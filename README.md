@@ -107,8 +107,6 @@
 - Multi-stage Docker builds and serverless cloud deployment.
 
 ---
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -126,15 +124,14 @@
 ---
 
 <div align="center">
+  <h2>🤝 Let's Connect</h2>
 
-## 🤝 Let's Connect
+  <strong>Open to Backend Engineer · Forward Deployed Engineer · Applied AI Engineer opportunities.</strong>
 
-**Open to Backend Engineer · Forward Deployed Engineer · Applied AI Engineer opportunities.**
-
-<p>
-  <a href="https://www.linkedin.com/in/yugansh-sharma-097740301/">LinkedIn</a> ·
-  <a href="mailto:yugansh2511@gmail.com">Email</a> ·
-  <a href="https://codolio.com/profile/Yugansh">Codolio</a>
-</p>
-
+  <p>
+    <a href="https://www.linkedin.com/in/yugansh-sharma-097740301/">LinkedIn</a> ·
+    <a href="mailto:yugansh2511@gmail.com">Email</a> ·
+    <a href="https://codolio.com/profile/Yugansh">Codolio</a>
+  </p>
 </div>
+

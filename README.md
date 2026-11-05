@@ -110,13 +110,13 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="./assets/github-stats.svg"
+  <img src="https://githubusercontent.com"
        alt="GitHub Repository Statistics"
        width="100%" />
 
   <br />
 
-  <img src="./assets/top-languages.svg"
+  <img src="https://githubusercontent.com"
        alt="Top Programming Languages"
        width="100%" />
 </div>
